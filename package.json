@@ -14,5 +14,9 @@
         "sass": "^1.56.1",
         "vite": "^5.0.0",
         "vue": "^3.2.37"
+    },
+    "dependencies": {
+        "@inertiajs/vue3": "^2.0.14",
+        "pinia": "^3.0.3"
     }
 }
